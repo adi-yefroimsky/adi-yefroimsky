@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adi-yefroimsky
-- I'm a third-year computational biology student at HUJI.
+- I'm a computational biology MS.c student at HUJI.
 - My email is adi.yefroimsky@mail.huji.ac.il
 
 <!---
